@@ -2,28 +2,21 @@
 	<img src="./images/ji_logo.png" alt="Jilogo" style="zoom:60%;" />
 </div>
 <center>
-	<h2>
-		VE414 Bayesian Analysis
-	</h2>
-</center> 
-<center>
-	<h3>
+	<h1>
 		GMM KMeans Clustering
-	</h3>
+	</h1>
 </center>
 <center>
-   <h4>
+   <h2>
        SU 2020
-    </h4> 
+    </h2> 
 </center>
 
 ------------------------------------------
 
 ### Abstract
 
-This project is used to help our VE414 Project team work together. 
-
-Once we open source the code for `20SU VE414 term Project` and if you want to refer to our work, please follow the Joint Institute’s honor code and don’t plagiarize these codes directly.
+Once we open source the code and if you want to refer to our work, please follow the Joint Institute’s honor code and don’t plagiarize these codes directly.
 
 ### Introduction
 
@@ -91,10 +84,6 @@ git push origin zzp1012 # create branch 'zzp1012' remotely on github and copy yo
 git pull origin master # synchronize files on remote master branch.
 git pull origin "you branch name" # the 'master' can be replaced by the name of the other branch created on remote project on github, then you can synchronize files on the specific remote branch.
 ```
-
-### Reference
-
-[1] Liu, J., 2020. *Ve414 Bayesian Analysis Project*.
 
 ---------------------------------------------------------------
 
